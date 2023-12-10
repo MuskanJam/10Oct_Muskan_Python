@@ -1,0 +1,3 @@
+How will you compare two lists?
+
+In python, you can compare two lists using the equality operator('=='). It checks whether the elements of the two lists are equal and same.
