@@ -1,0 +1,2 @@
+How memoery is managed in Python?
+In python, memory management is taken care automatically. the python memory manager tasks charge of allocating and releasing memory using a private heap. Developers don't have to worry about managing memory explicity because the interpreter handles it automatically.

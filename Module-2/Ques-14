@@ -1,0 +1,2 @@
+What are negative indexes and why are they used?
+The negative index -1 refers to the last element, -2 refers to the second last element, and so on. In python, negative indexes are used to access elements form end of a sequence, such as string, list or tuple. 
