@@ -1,0 +1,4 @@
+ How will you set the starting value in generating random numbers?
+
+ To set the starting value in generating random numbers, random.randrange(start, stop, step) function is used.
+ It will return a random seleted element from a gievn range(start, stop,step). 

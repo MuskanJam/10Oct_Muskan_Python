@@ -1,0 +1,4 @@
+How can you get a random number in python?
+
+To get a random number in python, random.randint(a,b) is used.
+It will return a random integer N such that a <=N <=b.
