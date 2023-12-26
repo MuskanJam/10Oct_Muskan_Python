@@ -1,3 +1,0 @@
- How will you randomizes the items of a list in place?
-
- TO randomize items of a list in place, shuffle function method is used to shuffle a list. This changes the original list. This is mostly used to create a captcha.

@@ -1,6 +1,0 @@
- How can you pick a random item from a range?
-
- To pick a random item from a range the functions is used like:
-  random.randrange function
-  random.randint function
-  random.random function
