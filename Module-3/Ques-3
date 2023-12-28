@@ -1,0 +1,3 @@
+Difference between append() and extend() methods?
+append() method will add an item to the end of the list.
+extend() method will iterate and append the contents to the end of the list.

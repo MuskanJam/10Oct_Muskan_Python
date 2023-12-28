@@ -1,0 +1,4 @@
+ How can you pick a random item from a list or tuple? 
+
+ TO pick a random item from a list or tuple, a random function is required to import.
+ use import random function then create a list or tuple.

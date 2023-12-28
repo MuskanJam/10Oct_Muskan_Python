@@ -1,0 +1,9 @@
+How Do You Check The Presence Of A Key In A Dictionary?
+
+To check the presence of a key in a dictionary using the 'in' keyword or the get() method.
+
+d = {'a':1, 'b':2, 'c':5}
+
+if x in d:
+  x=input("Enter key:")
+  print("It's present.")

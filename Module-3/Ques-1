@@ -1,0 +1,5 @@
+What is List? How will you reverse a list? 
+
+A list which can be written as a list of comma-separated items between squarebrackets.
+List migth contains iteams of different types but usually have the same type.
+For reversing a list, list.reverse() function is used.
