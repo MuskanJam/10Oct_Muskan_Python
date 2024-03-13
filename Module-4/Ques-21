@@ -1,0 +1,3 @@
+What are oops concepts? Is multiple inheritance supported in java.
+
+Object-Oriented Programming (OOP) concepts are the fundamental principles that define the structure and behavior of objects in object-oriented programming languages.Java does not support multiple inheritance of classes, meaning a class cannot directly inherit from more than one class. This design decision was made to avoid complexities and ambiguities that can arise from multiple inheritance. However, Java supports multiple inheritance of interfaces.

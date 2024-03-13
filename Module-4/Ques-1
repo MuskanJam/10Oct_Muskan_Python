@@ -1,0 +1,5 @@
+What is File function in python? What is keywords to create and write file. 
+
+Python provides the open() function to work with files. The open() function is used to create, open, and manipulate files.To create and write to a file in Python, you use the following keywords and functions:
+
+open(file_path, mode): This function is used to open a file. The file_path is the path to the file you want to open or create, and the mode specifies the mode in which you want to open the file (read, write, append, etc.).

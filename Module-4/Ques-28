@@ -1,0 +1,12 @@
+What relationship is appropriate for Course and Faculty?
+
+The relationship between a Course and a Faculty member can vary based on the requirements and structure of the educational institution. 
+
+Many-to-Many Relationship (M:N):
+This relationship implies that a course can have multiple faculty members teaching it, and a faculty member can teach multiple courses.
+
+One-to-Many Relationship (1:N):
+In this relationship, a course can have only one faculty member designated as its primary instructor, but a faculty member can teach multiple courses.
+
+Many-to-One Relationship (N:1):
+This relationship is the reverse of the one-to-many relationship, where many courses can be taught by a single faculty member, but a course can have only one primary instructor.

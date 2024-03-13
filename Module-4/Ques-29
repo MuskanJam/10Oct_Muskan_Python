@@ -1,0 +1,12 @@
+What relationship is appropriate for Student and Person?
+
+A subclass relationship is appropriate for the relationship between Student and Person.
+
+Inheritance Relationship:
+A Student is a specific type of Person. Therefore, it makes sense to model this relationship using inheritance, where the Student class inherits attributes and methods from the Person class.
+
+Code Reusability:
+By defining common attributes and behaviors in the Person class, you can reuse them in the Student class without duplicating code. This promotes code reuse and simplifies maintenance.
+
+Polymorphism:
+Inheritance allows for polymorphic behavior, where methods defined in the Person class can be overridden in the Student class to provide specialized behavior. 

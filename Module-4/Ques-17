@@ -1,0 +1,3 @@
+When is the finally block executed?
+
+The finally block in a try-except-finally statement is executed regardless of whether an exception occurs or not.If no exception occurs in the try block, the finally block will be executed after the try block completes.If an exception occurs in the try block and it is caught by an except block, the finally block will be executed after the except block.
